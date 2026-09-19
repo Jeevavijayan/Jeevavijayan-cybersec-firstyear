@@ -1,4 +1,4 @@
-# Beginner Cyber Security – TryHackMe
+#Cyber Security – TryHackMe
 
 **Name:** Jeevavijayan  
 **TryHackMe Profile:** [https://tryhackme.com/p/jeevavijayan2102](https://tryhackme.com/p/jeevavijayan2102)
