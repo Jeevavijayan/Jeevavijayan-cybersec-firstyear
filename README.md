@@ -1,28 +1,31 @@
-## Cyber Security – TryHackMe
+# Cyber Security – First Year
 
 **Name:** Jeevavijayan  
 **TryHackMe Profile:** [https://tryhackme.com/p/jeevavijayan2102](https://tryhackme.com/p/jeevavijayan2102)
 
-## Task 1 – CTF Challenge Walkthroughs
+## Submission
 
-Completed the following two TryHackMe rooms and documented the steps performed, screenshots, and key learnings in the submitted Word document.
+This repository contains the two required Word documents for the Cyber Security assignment.
 
-### Room 1 – What is Networking?
+### Task 1 – TryHackMe Challenge Walkthroughs
 
-[TryHackMe Room](https://tryhackme.com/room/whatisnetworkingsvg)
+**File:** `Task1_TryHackMe.docx`
 
-Completed the room by working through basic networking concepts, including networks, IP addresses, MAC addresses, protocols, ping, and network communication.
+Completed and documented the following TryHackMe rooms:
 
-### Room 2 – Intro to Networking
+- [What is Networking?](https://tryhackme.com/room/whatisnetworkingsvg) – Covered basic networking concepts such as networks, IP addresses, MAC addresses, protocols, ping, and network communication.
+- [Intro to Networking](https://tryhackme.com/room/introtonetworkingsvg) – Covered networking fundamentals including `ping`, `traceroute`, `whois`, `dig`, DNS, TCP/UDP, and the OSI model.
 
-[TryHackMe Room](https://tryhackme.com/room/introtonetworkingsvg)
+The document includes step-by-step walkthroughs, screenshots, completion evidence, and key learnings from both rooms.
 
-Completed the room by exploring networking fundamentals and using tools and concepts such as `ping`, `traceroute`, `whois`, `dig`, DNS, TCP/UDP, and the OSI model.
+### Task 2 – Core Security Concepts Explainer
 
-### Submission
+**File:** `Task2_ConceptsExplainer.docx`
 
-- One Word document (`.docx`) covering both TryHackMe rooms.
-- Step-by-step actions and separate learning sections are included for each room.
-- Screenshots of key stages and completion screens are included.
-- TryHackMe profile link is provided for verification.
+Explained five core cybersecurity concepts through real-world scenarios and diagrams: Confidentiality, Integrity, Availability, Authentication vs Authorization, and Encryption vs Hashing. :contentReference[oaicite:1]{index=1}
 
+## Repository Files
+
+- `Task1_TryHackMe.docx` – TryHackMe room walkthroughs and learnings.
+- `Task2_ConceptsExplainer.docx` – Core cybersecurity concepts explained through scenarios and diagrams.
+- `README.md` – Assignment submission overview and profile information.
